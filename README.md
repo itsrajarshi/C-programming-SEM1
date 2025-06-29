@@ -34,4 +34,4 @@ This repo was created to:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-github-username/C-programming-SEM1.git
+git clone https://github.com/itsrajarshi/C-programming-SEM1.git
