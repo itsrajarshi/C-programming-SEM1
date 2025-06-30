@@ -4,7 +4,7 @@ This repository contains all the **C programming lab programs**, **assignments**
 
 ## 👨‍🏫 Faculty Reference
 
-This repository was created as part of the **C Programming Lab (Semester 1)** under the guidance of [**Mr. Eali Stephen Neal Joshua**](https://github.com/snjeali), Faculty at **GITAM University**.
+This repository was created as part of the **CSEN1011-Problem Solving and Programming in C (Semester 1)** under the guidance of [**Mr. Eali Stephen Neal Joshua**](https://github.com/snjeali), Faculty at **GITAM University**.
 
 
 ---
